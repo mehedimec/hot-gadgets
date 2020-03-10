@@ -1,0 +1,79 @@
+.nav-logo{
+    height: 40px;
+}
+.container{
+    margin-bottom: 70px;
+}
+
+.carousel-bg{
+    background-color: white;
+    border-radius: 10px;
+}
+carousel-indicators li {
+    background-color: #7f7fe6;
+    border-radius: 50%;
+   
+}
+.carousel-indicators .active {
+    background-color: #f07d1e;
+    border-radius: 50%;
+    
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.button-buy-now{
+    background-image: linear-gradient(to bottom, rgb(233, 151, 93), tomato);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    border-radius: 10px;
+    background-color: white;
+}
+.category-border{
+    border-width: 6px;
+    border-radius: 5px;
+    border-color: yellowgreen;
+    margin: 3px 43%;
+}
+.category-img-box{
+    height: 180px;
+    width: 170px;
+    border: none;
+    border-bottom-right-radius: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    margin: 5%;
+    
+}
+.card-img-top:hover{
+    transform: scale(1.1);
+}
+.category-img-box:hover{
+    transform: scale(1.2);
+}
+.margin-box{
+    margin-top: 7px;
+}
+.cat-img-pale{
+    width: 50%;
+}
+.subscribe-bg{
+    height: 220px;
+    width: 500px;
+    background-image: linear-gradient(to bottom, rgb(186, 240, 250), rgb(8, 117, 136));
+    border-radius: 15px;
+}
+footer{
+    text-align: center;
+    color: rgb(95, 95, 95);
+}
